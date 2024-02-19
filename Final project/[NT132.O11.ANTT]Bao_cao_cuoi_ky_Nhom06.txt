@@ -1,0 +1,9 @@
+Link video demo:
+https://drive.google.com/drive/folders/1zO_Q_I9CazJsuzBPTkU3zq9ombiwb4ZB
+Link source code:
+- Ứng dụng trò chơi pygame và mysql:
+https://github.com/MN911718/NT132.O11.ANTT_Project.git
+- Ứng dụng blog cá nhân:
+https://github.com/PTrinh116/QuanTriMang.git
+- Ứng dụng Todolist:
+https://drive.google.com/drive/folders/1sAa1Gh3aPaPxotOUbH7MBy15yd3GzzAu?usp=sharing 
